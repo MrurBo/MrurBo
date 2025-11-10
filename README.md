@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hello, I'm MrurBo
 
-<!--
-**MrurBo/MrurBo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub followers](https://img.shields.io/github/followers/MrurBo?label=Followers&style=social)](https://github.com/MrurBo)
+[![GitHub stars](https://img.shields.io/github/stars/MrurBo?label=Profile%20Stars&style=social)](https://github.com/MrurBo)
+[![Website](https://img.shields.io/badge/Website-mrurbo.github.io-blue?style=flat-square)](https://mrurbo.github.io/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+Full-stack developer with experience in **frontend** and **backend** development.  
+I focus on building responsive, efficient web applications and reusable templates.  
+I enjoy working with clean code, automation, and modern web technologies.
+
+---
+
+### Tech Stack
+**Frontend:** HTML, CSS / SCSS, JavaScript, Jekyll, React  
+**Backend:** Node.js, Express, Python, PHP  
+**Tools:** Git, GitHub Actions, VS Code, Linux
+
+---
+
+### Featured Project
+[![Website-Template](https://img.shields.io/static/v1?label=MrurBo&message=Website-Template&color=blue&logo=github)](https://github.com/MrurBo/Website-Template)
+[![View site - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge)](https://mrurbo.github.io/Website-Template/)
+
+A Jekyll + SCSS website template with automated GitHub Pages deployment.
+
+---
+
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrurBo&show_icons=true&theme=default&hide_title=true)
+
+---
