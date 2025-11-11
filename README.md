@@ -28,7 +28,6 @@ A Jekyll + SCSS website template with automated GitHub Pages deployment.
 
 ---
 
-### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrurBo&show_icons=true&theme=default&hide_title=true)
 
 ---
