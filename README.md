@@ -8,16 +8,16 @@
 
 #👋 About Me
 
-Full-stack developer specializing in modern web development, automation, and Minecraft modding.
-I focus on building fast, responsive, and maintainable applications using clean, scalable code.
+ * Full-stack developer specializing in modern web development, automation, and Minecraft modding.
+ * I focus on building fast, responsive, and maintainable applications using clean, scalable code.
 
 ---
 
 ### Tech Stack
-**Frontend:** HTML, CSS/SCSS, JavaScript, Jekyll, React
-**Backend:** Node.js, Express, Python, PHP
-**Tools:*** Git, GitHub Actions, VS Code, Linux
-**Minecraft Development:** Kotlin, Java, Gradle
+ * **Frontend:** HTML, CSS/SCSS, JavaScript, Jekyll, React
+ * **Backend:** Node.js, Express, Python, PHP
+ * **Tools:*** Git, GitHub Actions, VS Code, Linux
+ * **Minecraft Development:** Kotlin, Java, Gradle
 ---
 
 ### Featured Project
