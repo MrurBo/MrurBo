@@ -6,7 +6,7 @@
 
 ---
 
-#👋 About Me
+# About Me
 
  * Full-stack developer specializing in modern web development, automation, and Minecraft modding.
  * I focus on building fast, responsive, and maintainable applications using clean, scalable code.
