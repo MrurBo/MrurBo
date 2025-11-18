@@ -16,7 +16,7 @@
 ### Tech Stack
  * **Frontend:** HTML, CSS/SCSS, JavaScript, Jekyll, React
  * **Backend:** Node.js, Express, Python, PHP
- * **Tools:*** Git, GitHub Actions, VS Code, Linux
+ * **Tools:** Git, GitHub Actions, VS Code, Linux
  * **Minecraft Development:** Kotlin, Java, Gradle
 ---
 
