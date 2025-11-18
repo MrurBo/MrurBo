@@ -10,6 +10,7 @@
 Full-stack developer with experience in **frontend** and **backend** development.  
 I focus on building responsive, efficient web applications and reusable templates.  
 I enjoy working with clean code, automation, and modern web technologies.
+Currently working with Minecraft, mainly Kotlin modding and plugin development.
 
 ---
 
@@ -17,7 +18,7 @@ I enjoy working with clean code, automation, and modern web technologies.
 **Frontend:** HTML, CSS / SCSS, JavaScript, Jekyll, React  
 **Backend:** Node.js, Express, Python, PHP  
 **Tools:** Git, GitHub Actions, VS Code, Linux
-
+**Minecraft:** Kotlin, Java, Gradle
 ---
 
 ### Featured Project
